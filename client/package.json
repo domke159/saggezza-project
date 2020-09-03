@@ -1,0 +1,51 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-community/datetimepicker": "2.1.0",
+    "@react-native-community/masked-view": "^0.1.5",
+    "@react-navigation/drawer": "^5.0.5",
+    "@react-navigation/native": "^5.0.5",
+    "@react-navigation/stack": "^5.0.5",
+    "axios": "^0.19.2",
+    "base-64": "^0.1.0",
+    "expo": "^36.0.2",
+    "expo-blur": "^8.0.0",
+    "expo-cli": "^3.13.1",
+    "expo-google-app-auth": "^8.0.1",
+    "expo-image-picker": "^8.0.2",
+    "expo-secure-store": "^8.0.0",
+    "fbjs": "^1.0.0",
+    "fuse.js": "^3.4.6",
+    "https": "^1.0.0",
+    "react": "~16.9.0",
+    "react-date-picker": "^7.10.0",
+    "react-datepicker": "^2.14.0",
+    "react-day-picker": "^7.4.0",
+    "react-dom": "~16.9.0",
+    "react-native": "^0.61.5",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-dropdown-menu": "^2.0.0",
+    "react-native-elements": "^1.2.7",
+    "react-native-gesture-handler": "^1.5.3",
+    "react-native-picker-select": "^6.5.0",
+    "react-native-reanimated": "^1.4.0",
+    "react-native-safe-area-context": "^0.6.0",
+    "react-native-screens": "2.0.0-alpha.12",
+    "react-native-swipeout": "^2.3.6",
+    "react-native-vector-icons": "^6.6.0",
+    "react-native-web": "~0.11.7",
+    "react-navigation-drawer": "react-navigation/drawer"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "babel-preset-expo": "~8.0.0"
+  },
+  "private": true
+}
